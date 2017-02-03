@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="title">Take the quiz and have fun!!</string>
+    <string name="name">Name</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="first_question">1. A triangle with one angle greater than 90 degrees.</string>
+    <string name="answer_11">A: Equilateral triangle</string>
+    <string name="answer_12">B: Obtuse triangle</string>
+    <string name="answer_13">C: Acute triangle</string>
+    <string name="answer_14">D: Isosceles triangle</string>
+    <string name="second_question">2.Positive integers that are greater than 1 and are divisible by one and themselves.</string>
+    <string name="answer_21">A: Negative numbers</string>
+    <string name="answer_22">B: Prime numbers</string>
+    <string name="answer_23">C: Odd integers</string>
+    <string name="answer_24">D: Even integers</string>
+    <string name="third_question">3.Solve this expression 5*7"-"2+5+6*6</string>
+    <string name="answer_31">A: 74</string>
+    <string name="answer_32">B: 264</string>
+    <string name="fourth_question">4.Which of the following is true?</string>
+    <string name="answer_41">A: Equilateral triangle has 2 equal angles</string>
+    <string name="answer_42">B: Equilateral triangle has 3 equal angles</string>
+    <string name="answer_43">C: Isosceles triangle has 2 equal angles</string>
+    <string name="answer_44">D: Isosceles triangle has 3 equal angles</string>
+    <string name="fifth_question">5.Solve the problem below.</string>
+    <string name="answer_51">A: 30°</string>
+    <string name="answer_52">B: 60°</string>
+    <string name="answer_53">C: 90°</string>
+    <string name="answer_54">D: 120°</string>
+    <string name="submit">Submit</string>
+
+</resources>
